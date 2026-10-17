@@ -1,0 +1,106 @@
+id_lagu,judul,artis,genre,tahun_rilis,durasi_detik,jumlah_putar,popularitas,negara_artis,benua
+1,Shape of You,Ed Sheeran,Pop,2017,233,3100000000,90,Britania Raya,Eropa
+2,Blinding Lights,The Weeknd,Pop,2019,200,3400000000,92,Kanada,Amerika Utara
+3,Bohemian Rhapsody,Queen,Rock,1975,355,2000000000,88,Britania Raya,Eropa
+4,Someone Like You,Adele,Pop,2011,285,1700000000,80,Britania Raya,Eropa
+5,Lose Yourself,Eminem,Hip-Hop,2002,326,2100000000,85,Amerika Serikat,Amerika Utara
+6,Hotel California,Eagles,Rock,1976,390,1500000000,82,Amerika Serikat,Amerika Utara
+7,Smells Like Teen Spirit,Nirvana,Rock,1991,301,1800000000,83,Amerika Serikat,Amerika Utara
+8,Billie Jean,Michael Jackson,Pop,1983,294,1600000000,84,Amerika Serikat,Amerika Utara
+9,Uptown Funk,Mark Ronson,Funk,2014,270,2300000000,81,Britania Raya,Eropa
+10,Despacito,Luis Fonsi,Latin,2017,228,3000000000,78,Puerto Riko,Amerika Utara
+11,Believer,Imagine Dragons,Rock,2017,204,2300000000,82,Amerika Serikat,Amerika Utara
+12,Bad Guy,Billie Eilish,Pop,2019,194,2800000000,87,Amerika Serikat,Amerika Utara
+13,Dynamite,BTS,K-Pop,2020,199,1400000000,82,Korea Selatan,Asia
+14,Lathi,Weird Genius,EDM,2020,213,650000000,75,Indonesia,Asia
+15,Hati-Hati di Jalan,Tulus,Pop,2022,250,520000000,74,Indonesia,Asia
+16,Kangen,Dewa 19,Rock,1992,233,410000000,70,Indonesia,Asia
+17,Yellow,Coldplay,Tidak Diketahui,2000,269,1900000000,84,Britania Raya,Eropa
+18,Shake It Off,Taylor Swift,Pop,2014,219,2000000000,86,Amerika Serikat,Amerika Utara
+19,Just the Way You Are,Bruno Mars,Pop,2010,220,1800000000,82,Amerika Serikat,Amerika Utara
+20,Levitating,Dua Lipa,Pop,2020,203,2500000000,88,Britania Raya,Eropa
+21,As It Was,Harry Styles,Pop,2022,157,3300000000,91,Britania Raya,Eropa
+22,Umbrella,Rihanna,Pop,2007,276,1500000000,82,Barbados,Amerika Utara
+23,Sunday Morning,Maroon 5,Pop,2004,241,1100000000,76,Amerika Serikat,Amerika Utara
+24,In the End,Linkin Park,Rock,2001,216,1900000000,83,Amerika Serikat,Amerika Utara
+25,Creep,Radiohead,Rock,1992,238,1400000000,78,Britania Raya,Eropa
+26,Sephia,Sheila on 7,Pop,1999,243,380000000,68,Indonesia,Asia
+27,Dancing Queen,ABBA,Disco,1976,231,1500000000,80,Swedia,Eropa
+28,Wake Me Up,Avicii,EDM,2013,247,1800000000,82,Swedia,Eropa
+29,Get Lucky,Daft Punk,Disco,2013,369,1800000000,79,Prancis,Eropa
+30,Gangnam Style,PSY,K-Pop,2012,219,1800000000,77,Korea Selatan,Asia
+31,Kill This Love,Blackpink,K-Pop,2019,191,1000000000,81,Korea Selatan,Asia
+32,Someone You Loved,Lewis Capaldi,Pop,2018,182,1800000000,85,Britania Raya,Eropa
+33,Separuh Aku,Noah,Pop,2012,233,300000000,82,Indonesia,Asia
+34,Perfect,Ed Sheeran,Pop,2017,263,3300000000,90,Britania Raya,Eropa
+35,Rolling in the Deep,Adele,Pop,2010,228,1900000000,85,Britania Raya,Eropa
+36,Hello,Adele,Pop,2015,295,1600000000,82,Britania Raya,Eropa
+37,Love Story,Taylor Swift,Pop,2008,235,1300000000,81,Amerika Serikat,Amerika Utara
+38,Blank Space,Taylor Swift,Pop,2014,231,2000000000,86,Amerika Serikat,Amerika Utara
+39,Anti-Hero,Taylor Swift,Pop,2022,200,2200000000,89,Amerika Serikat,Amerika Utara
+40,Flowers,Miley Cyrus,Pop,2023,200,2400000000,90,Amerika Serikat,Amerika Utara
+41,Roar,Katy Perry,Pop,2013,223,1500000000,80,Amerika Serikat,Amerika Utara
+42,Poker Face,Lady Gaga,Pop,2008,237,1300000000,79,Amerika Serikat,Amerika Utara
+43,Don't Start Now,Dua Lipa,Pop,2019,183,2000000000,87,Britania Raya,Eropa
+44,Watermelon Sugar,Harry Styles,Pop,2019,174,2400000000,88,Britania Raya,Eropa
+45,drivers license,Olivia Rodrigo,Pop,2021,242,2300000000,87,Amerika Serikat,Amerika Utara
+46,Chandelier,Sia,Pop,2014,216,1500000000,80,Australia,Oseania
+47,Somebody That I Used to Know,Gotye,Pop,2011,244,1700000000,82,Australia,Oseania
+48,Take On Me,a-ha,Pop,1985,225,2000000000,85,Norwegia,Eropa
+49,I Wanna Dance with Somebody,Whitney Houston,Pop,1987,291,1200000000,78,Amerika Serikat,Amerika Utara
+50,Sweet Child O' Mine,Guns N' Roses,Rock,1987,356,1700000000,86,Amerika Serikat,Amerika Utara
+51,Stairway to Heaven,Led Zeppelin,Rock,1971,482,700000000,76,Britania Raya,Eropa
+52,Back in Black,AC/DC,Rock,1980,255,1600000000,84,Australia,Oseania
+53,Livin' on a Prayer,Bon Jovi,Rock,1986,249,1500000000,83,Amerika Serikat,Amerika Utara
+54,Wonderwall,Oasis,Rock,1995,258,1800000000,85,Britania Raya,Eropa
+55,Numb,Linkin Park,Rock,2003,187,1700000000,84,Amerika Serikat,Amerika Utara
+56,Boulevard of Broken Dreams,Green Day,Rock,2004,261,1400000000,80,Amerika Serikat,Amerika Utara
+57,Seven Nation Army,The White Stripes,Rock,2003,232,1600000000,82,Amerika Serikat,Amerika Utara
+58,Hey Jude,The Beatles,Rock,1968,431,800000000,74,Britania Raya,Eropa
+59,Californication,Red Hot Chili Peppers,Rock,1999,329,1500000000,83,Amerika Serikat,Amerika Utara
+60,Enter Sandman,Metallica,Rock,1991,331,1400000000,82,Amerika Serikat,Amerika Utara
+61,Zombie,The Cranberries,Rock,1994,306,1100000000,77,Irlandia,Eropa
+62,Fix You,Coldplay,Rock,2005,295,1500000000,82,Britania Raya,Eropa
+63,Use Somebody,Kings of Leon,Rock,2008,231,1000000000,76,Amerika Serikat,Amerika Utara
+64,Sicko Mode,Travis Scott,Hip-Hop,2018,312,2200000000,86,Amerika Serikat,Amerika Utara
+65,God's Plan,Drake,Hip-Hop,2018,199,2300000000,87,Kanada,Amerika Utara
+66,HUMBLE.,Kendrick Lamar,Hip-Hop,2017,177,1900000000,85,Amerika Serikat,Amerika Utara
+67,Lucid Dreams,Juice WRLD,Hip-Hop,2018,240,2000000000,84,Amerika Serikat,Amerika Utara
+68,Rockstar,Post Malone,Hip-Hop,2017,218,2500000000,88,Amerika Serikat,Amerika Utara
+69,Without Me,Eminem,Hip-Hop,2002,290,1500000000,81,Amerika Serikat,Amerika Utara
+70,In Da Club,50 Cent,Hip-Hop,2003,193,1200000000,79,Amerika Serikat,Amerika Utara
+71,Halo,Beyoncé,R&B,2008,261,1300000000,80,Amerika Serikat,Amerika Utara
+72,Crazy in Love,Beyoncé,R&B,2003,236,1100000000,78,Amerika Serikat,Amerika Utara
+73,Redbone,Childish Gambino,R&B,2016,327,1300000000,79,Amerika Serikat,Amerika Utara
+74,No Scrubs,TLC,R&B,1999,214,900000000,75,Amerika Serikat,Amerika Utara
+75,Fallin',Alicia Keys,R&B,2001,210,800000000,73,Amerika Serikat,Amerika Utara
+76,Closer,The Chainsmokers,EDM,2016,244,3000000000,90,Amerika Serikat,Amerika Utara
+77,Hey Brother,Avicii,EDM,2013,255,1100000000,77,Swedia,Eropa
+78,Titanium,David Guetta,EDM,2011,245,1400000000,80,Prancis,Eropa
+79,Animals,Martin Garrix,EDM,2013,303,900000000,74,Belanda,Eropa
+80,Faded,Alan Walker,EDM,2015,212,2700000000,88,Norwegia,Eropa
+81,How You Like That,Blackpink,K-Pop,2020,182,1100000000,82,Korea Selatan,Asia
+82,Butter,BTS,K-Pop,2021,164,1300000000,85,Korea Selatan,Asia
+83,Boy With Luv,BTS,K-Pop,2019,229,1000000000,80,Korea Selatan,Asia
+84,Love Dive,IVE,K-Pop,2022,177,600000000,76,Korea Selatan,Asia
+85,Next Level,aespa,K-Pop,2021,221,700000000,77,Korea Selatan,Asia
+86,Ditto,NewJeans,K-Pop,2022,186,800000000,79,Korea Selatan,Asia
+87,Bailando,Enrique Iglesias,Latin,2014,243,1500000000,80,Spanyol,Eropa
+88,Hips Don't Lie,Shakira,Latin,2006,218,1400000000,79,Kolombia,Amerika Selatan
+89,Gasolina,Daddy Yankee,Latin,2004,192,1300000000,78,Puerto Riko,Amerika Utara
+90,Titi Me Preguntó,Bad Bunny,Latin,2022,243,1700000000,84,Puerto Riko,Amerika Utara
+91,September,"Earth, Wind & Fire",Disco,1978,215,900000000,78,Amerika Serikat,Amerika Utara
+92,Superstition,Stevie Wonder,Funk,1972,266,600000000,72,Amerika Serikat,Amerika Utara
+93,Don't Stop 'Til You Get Enough,Michael Jackson,Disco,1979,366,700000000,75,Amerika Serikat,Amerika Utara
+94,Hanya Rindu,Andmesh,Pop,2019,230,450000000,74,Indonesia,Asia
+95,Dia,Anji,Pop,2018,241,350000000,70,Indonesia,Asia
+96,Akad,Payung Teduh,Pop,2017,267,480000000,73,Indonesia,Asia
+97,Cinta Luar Biasa,Andmesh,Pop,2018,227,300000000,69,Indonesia,Asia
+98,Pamit,Tulus,Pop,2016,252,400000000,72,Indonesia,Asia
+99,Laskar Pelangi,Nidji,Pop,2008,280,250000000,66,Indonesia,Asia
+100,Yang Terdalam,Peterpan,Pop,2004,286,280000000,67,Indonesia,Asia
+101,Mungkin Nanti,Peterpan,Pop,2004,273,320000000,68,Indonesia,Asia
+102,Rumah ke Rumah,Hindia,Pop,2019,278,200000000,65,Indonesia,Asia
+103,Terlalu Lama Sendiri,Kunto Aji,Pop,2018,291,280000000,67,Indonesia,Asia
+104,Dan,Sheila On 7,Pop,1999,254,420000000,71,Indonesia,Asia
+105,Sebuah Kisah Klasik,Sheila On 7,Pop,1999,258,500000000,72,Indonesia,Asia
